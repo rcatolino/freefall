@@ -1,0 +1,13 @@
+*~
+*.swp
+.directory
+bin/
+gen/
+gst-build/
+libs/
+local.properties
+obj/
+build.xml
+*.txt
+project.properties
+ant.properties
